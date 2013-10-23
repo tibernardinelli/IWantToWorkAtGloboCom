@@ -44,7 +44,7 @@ Cargo: Analista desenvolvedor.
 * ___07/2008 – 11/2009 – Aurum Software.___
 	* Desenvolvimento e manutenção de sistemas para gerenciamento de processos e administrativo para escritórios de advocacia.
 
-###___Conhecimentos: ___
+### Conhecimentos:
 * ___Linguagens de programação:___
 	* C#
 	* Python
