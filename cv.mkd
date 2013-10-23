@@ -54,6 +54,22 @@ Cargo: Analista desenvolvedor.
 	* MySQL
 	* Oracle
 
+### Graduação:
+* USP – EACH, Sistemas de informação.
+	* Conclusão estimada: Dezembro de 2014.
+	* Posição atual: trancado.
+	* Monitor de aulas de introdução a computação e orientação a objetos.
+	* Diretor de tecnologia da empresa júnior do curso.
+	* Membro da associação atlética acadêmica, AAAEACH.
+
+###Cursos
+* Rich Internet Application development (R.I.A.) – Caelum.
+* Java: Testes, XML e design patterns – Caelum.
+* Desenvolvimento web com java – caelum.
+* Adobe Flex 4: R.I.A. - DClick
+
+
+
 
 
 
