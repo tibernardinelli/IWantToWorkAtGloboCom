@@ -26,6 +26,18 @@ Cargo: Analista desenvolvedor.
 
 	* Líder técnico do projeto, responsável pela arquitetura do sistema, desenvolvimento, implantação do sistema para testes, supervisão dos desenvolvedores do projeto, gerenciamento dos recursos técnicos e gerenciamento do versionamento do código.
 
+* ___02/2012 – 08/2012 – EFI Eletronics for imaging, inc.___
+Cargo: Analista desenvolvedor.
+	* Desenvolvimento e manutenção de sistema de orçamentos de impressões baseado na engenharia do produto.
+
+	* Desenvolvimento de algoritmo para cálculo de engenharia de produto baseado em suas especificações.
+
+	* Desenvolvimento de algoritmo para prover preço a processos, entradas e saídas que compõem a engenharia do produto.
+
+	* Análise e desenvolvimento de customizações para clientes do CRM da empresa.
+
+
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
