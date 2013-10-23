@@ -20,9 +20,9 @@ Celular: + 55 11 9 8858 0632 E-mail: tiago.bernardinelli@gmail.com
 
 * ___08/2012 – presente – Mvar soluções e serviços.___
 Cargo: Analista desenvolvedor.
-* Responsável pela análise e desenvolvimento de sistema de perdas e ganhos para pequenas e medias instituições financeiras, com objetivo de construir uma arquitetura capaz de agrupar todos os instrumentos financeiros da instituição e prover resultados e posições em tempo real.
-*	Desenvolvimento de sistema de integração escalável e de fácil extensão para possíveis legados que as instituições possam ter, de tal forma que toda a entrada de dados do sistema passou a ser via integrações, tornando assim o sistema estritamente gerencial.
-*	Líder técnico do projeto, responsável pela arquitetura do sistema, desenvolvimento, implantação do sistema para testes, supervisão dos desenvolvedores do projeto, gerenciamento dos recursos técnicos e gerenciamento do versionamento do código.
++ Responsável pela análise e desenvolvimento de sistema de perdas e ganhos para pequenas e medias instituições financeiras, com objetivo de construir uma arquitetura capaz de agrupar todos os instrumentos financeiros da instituição e prover resultados e posições em tempo real.
++	Desenvolvimento de sistema de integração escalável e de fácil extensão para possíveis legados que as instituições possam ter, de tal forma que toda a entrada de dados do sistema passou a ser via integrações, tornando assim o sistema estritamente gerencial.
++	Líder técnico do projeto, responsável pela arquitetura do sistema, desenvolvimento, implantação do sistema para testes, supervisão dos desenvolvedores do projeto, gerenciamento dos recursos técnicos e gerenciamento do versionamento do código.
 
 
 __Dicas:__
