@@ -1,15 +1,24 @@
-Vaga
+Vagas
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+* Área de Esportes
+* Área de Jornalismo
+* Área de Webmedia
+* Plataforma de Cadastro
+* Área de Semântica
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Tiago Canassa Bernardinelli
+---------------------------
+
+Brasileiro, solteiro, 23 Anos.
+Celular: + 55 11 9 8858 0632 E-mail: tiago.bernardinelli@gmail.com
+
+###__Experiências Profissionais__
+
+
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
