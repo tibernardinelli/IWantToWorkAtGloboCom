@@ -7,13 +7,14 @@ Vagas
 * Plataforma de Cadastro
 * Área de Semântica
 
+Apresentação
+============
+
 Olá, 
 
 Tomei conhecimento sobre o repositório e da busca constante de novos talentos da globo.com ao assistir uma palestra (ótima por sinal) no TDC 2013, conversei bastante sobre a empresa, sobre as linguagens e sobre a contribuição da empresa a comunidade com o palestrante __Francisco Souza__ e fiquei vidrado com a paixão que vocês tem por tecnologia, seria uma honra participar desse time!
 
 Tenho __muito__ interesse em trabalhar estritamente para web, para o público, até então sempre trabalhei fazendo sistemas "intranet", quero poder ver minhas contribuições alcançarem o público, apesar de só ter trabalhado com sistemas internos tenho experiência em integrações entre sistemas via protocolo REST, escalabilidade entre outros temas do mundo web, tenho certeza que posso ser muito útil na Globo.com
-
-Sou um entusiasta da linguagem Python, sempre que posso procuro usa-la como alternativa no meu dia a dia.
 
 Att.
 
@@ -24,7 +25,10 @@ Tiago Canassa Bernardinelli
 ---------------------------
 
 Brasileiro, solteiro, 23 Anos.
-Celular: + 55 11 9 8858 0632 E-mail: tiago.bernardinelli@gmail.com
+
+Celular: + 55 11 9 8858 0632
+
+E-mail: tiago.bernardinelli@gmail.com
 
 ###__Experiências Profissionais__
 
