@@ -82,3 +82,6 @@ Cargo: Analista desenvolvedor.
 * Java: Testes, XML e design patterns – Caelum.
 * Desenvolvimento web com java – caelum.
 * Adobe Flex 4: R.I.A. - DClick
+
+
+ 
