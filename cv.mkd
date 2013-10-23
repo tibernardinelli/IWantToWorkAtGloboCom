@@ -13,6 +13,8 @@ Tomei conhecimento sobre o repositório e da busca constante de novos talentos d
 
 Tenho __muito__ interesse em trabalhar estritamente para web, para o público, até então sempre trabalhei fazendo sistemas "intranet", quero poder ver minhas contribuições alcançarem o público, apesar de só ter trabalhado com sistemas internos tenho experiência em integrações entre sistemas via protocolo REST, escalabilidade entre outros temas do mundo web, tenho certeza que posso ser muito útil na Globo.com
 
+Sou um entusiasta da linguagem Python, sempre que posso procuro usa-la como alternativa no meu dia a dia.
+
 Att.
 
 CV
@@ -71,20 +73,8 @@ Cargo: Analista desenvolvedor.
 	* Membro da associação atlética acadêmica, AAAEACH.
 
 ###Cursos
+* The Developers Conference 2013 - ALM, .NET, PYTHON.
 * Rich Internet Application development (R.I.A.) – Caelum.
 * Java: Testes, XML e design patterns – Caelum.
 * Desenvolvimento web com java – caelum.
 * Adobe Flex 4: R.I.A. - DClick
-
-
-
-
-
-
-
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
